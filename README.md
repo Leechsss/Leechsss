@@ -1,10 +1,3 @@
-<!-- image credits -->
-    <a href=
-        "ARTIST URL">
-      <!-- image -->
-    <img src=
-        "url"
-    style= "max-width: 100px; float:left; margin-right:6px;"></a>
 
 <p style="padding-top:5px; margin-bottom:0px; font-size: 15px">
       <!-- name(s) + prns -->
