@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/Bc9fCHa.png" alt="">
+<center><img src="https://i.imgur.com/Bc9fCHa.png" alt=""></center>
 
 
-
+<center>
 <center><table width="120%" cellpadding="0" cellspacing="6" style="margin-top:10px;">
   <tr>
     <td align="center">
@@ -59,4 +59,4 @@
   </tr>
 </table>
 </center>
-                          
+    </center>                      
