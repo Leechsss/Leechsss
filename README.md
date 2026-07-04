@@ -68,5 +68,5 @@
         "https://64.media.tumblr.com/b3368d0670c4c8821543b10180b453eb/1a26a62a40c7c343-da/s100x200/2db9c49d206daf0eb9f1aaccb0b3b94cecfbca9e.gifv"
     style="width: 99px; height:56px">
     <img src=
-        "https://files.catbox.moe/mv9dn7.gif"
+        "https://64.media.tumblr.com/2e680ab0390dc53a5e9fd142446681d8/0fdb69778efd7cf7-a7/s250x400/08240d3057440d8587eee96fd9b2899be8cc38e5.gifv"
     style="width: 99px; height:56px">
