@@ -1,5 +1,14 @@
-<center><img src="https://files.catbox.moe/1r96jb.png" alt=""></center>
+<center><img src="https://64.media.tumblr.com/5144c0661a548035abbadc60d9f5534d/313453035e66da41-86/s640x960/4030b5c240ab9867f85ca6f3ca014763376e20ba.gifv" alt=""></center>
+
+<center><img src="https://64.media.tumblr.com/6d57f66743cc497377253e74dd71408c/72e790da5b0669e8-cd/s2048x3072/7bdca7d774c12ecf5baf95b3de058eefc5f9b0b1.pnj" alt=""></center>
+
+
 <center><img src="https://i.imgur.com/Bc9fCHa.png" alt=""></center>
+
+
+<p style="color: #FF5733;">Leech or Kev. it he hym. multifandom + oc furfag artist</p>
+
+
 
 
 <center>
