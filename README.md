@@ -3,15 +3,17 @@
 <center><img src="https://64.media.tumblr.com/4a9007303643b197de813d1c880925be/e3aac8636183cf7a-d9/s2048x3072/e85cdf53283a7cb9461a66d0fd90905a71c8488a.pnj" alt="image by ripdrhomo on tumblr"></center>
 
 
+<p align="center">
+  <a
+    
+  $${\color{#ABAAA1} Kev\ or\ Leech\ ||\ it/he/hym\ }$$
+  $${\color{#ABAAA1} multifandom,\ oc\ and\ furfag\ artist 𓈒}$$
 
 
 
-<p style="color: #FF5733;">Leech or Kev. it he hym. multifandom + oc furfag artist</p>
-
-
-
-
-<center>
+<p align="center">
+  <a
+    
 <center><table width="120%" cellpadding="0" cellspacing="6" style="margin-top:10px;">
   <tr>
     <td align="center">
